@@ -1,0 +1,7 @@
+print ("cual es tu precio original")
+precio_original= input()
+print ("cual es tu descuento)
+descuento= input()
+monto= int(precio_original)* (int(descuento)/100)
+final= int(precio_original)-int(monto)
+print ("precio final", final)

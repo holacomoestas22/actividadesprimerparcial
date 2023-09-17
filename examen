@@ -1,0 +1,5 @@
+print("indices")
+indice_uno= (75/1.68*2)
+print("indice de masa corporal uno es", indice_uno)
+indice_dos= (73/1.68*2)
+print("indice de masa corporal dos es", indice_dos)
